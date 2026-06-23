@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('Titulo del Proyecto 2026')
+st.title('Titulo del Proyecto 2026 - Grupo 1')
