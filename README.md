@@ -1,2 +1,2 @@
-# streamlit2026
+# titulo del proyecto de programacion avanzada
 streamlit2026
